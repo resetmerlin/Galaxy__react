@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Galaxy__react/static/css/main.914f896d.css",
+    "main.js": "/Galaxy__react/static/js/main.f774bebc.js",
+    "static/js/787.fb9c46f3.chunk.js": "/Galaxy__react/static/js/787.fb9c46f3.chunk.js",
+    "static/media/paul-volkmer-qVotvbsuM_c-unsplash.jpg": "/Galaxy__react/static/media/paul-volkmer-qVotvbsuM_c-unsplash.8e6bee5a8646f9497301.jpg",
+    "index.html": "/Galaxy__react/index.html",
+    "main.914f896d.css.map": "/Galaxy__react/static/css/main.914f896d.css.map",
+    "main.f774bebc.js.map": "/Galaxy__react/static/js/main.f774bebc.js.map",
+    "787.fb9c46f3.chunk.js.map": "/Galaxy__react/static/js/787.fb9c46f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.914f896d.css",
+    "static/js/main.f774bebc.js"
+  ]
+}
