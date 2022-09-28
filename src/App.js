@@ -1,6 +1,8 @@
 // import React from 'react';
-import { useState } from "react";
-import NewExpenses from "./components/NewExpenses";
+import React, { useState } from "react";
+
+import NewExpense from "./components/NewExpense/NewExpense";
+import Expenses from "./components/Expenses/Expenses";
 const App = () => {
   const expenses = [
     {
@@ -23,10 +25,18 @@ const App = () => {
       date: new Date(2021, 5, 12),
     },
   ];
+
+  // return React.createElement(
+  //   "div",
+  //   {},
+  //   React.createElement("h2", {}, "Let's get started!"),
+  //   React.createElement(Expenses, { iems: expenses })
+  // );
+  // this is the how it works when u type code that is at below here
   return (
     <div>
-      <h2> Let;s gooo</h2>
-      <NewExpenses item ={expenses}/>
+      <NewExpense></NewExpense>
+      <Expenses item={expenses} />
     </div>
   );
 };
