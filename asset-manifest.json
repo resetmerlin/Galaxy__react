@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Galaxy__react/static/css/main.c411aa1a.css",
-    "main.js": "/Galaxy__react/static/js/main.41d527ea.js",
+    "main.css": "/Galaxy__react/static/css/main.902f40e4.css",
+    "main.js": "/Galaxy__react/static/js/main.478fcf9a.js",
     "static/js/787.fb9c46f3.chunk.js": "/Galaxy__react/static/js/787.fb9c46f3.chunk.js",
     "index.html": "/Galaxy__react/index.html",
-    "main.c411aa1a.css.map": "/Galaxy__react/static/css/main.c411aa1a.css.map",
-    "main.41d527ea.js.map": "/Galaxy__react/static/js/main.41d527ea.js.map",
+    "main.902f40e4.css.map": "/Galaxy__react/static/css/main.902f40e4.css.map",
+    "main.478fcf9a.js.map": "/Galaxy__react/static/js/main.478fcf9a.js.map",
     "787.fb9c46f3.chunk.js.map": "/Galaxy__react/static/js/787.fb9c46f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c411aa1a.css",
-    "static/js/main.41d527ea.js"
+    "static/css/main.902f40e4.css",
+    "static/js/main.478fcf9a.js"
   ]
 }
